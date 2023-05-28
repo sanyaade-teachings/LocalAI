@@ -24,7 +24,7 @@ require (
 	github.com/swaggo/swag v1.16.1
 	github.com/urfave/cli/v2 v2.25.3
 	github.com/valyala/fasthttp v1.47.0
-	gopkg.in/yaml.v2 v2.4.0
+	gopkg.in/yaml.v3 v3.0.1
 	gopkg.in/yaml.v3 v3.0.1
 )
 
